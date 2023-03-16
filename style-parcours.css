@@ -1,0 +1,20 @@
+* {
+    font-family: Arial, sans-serif;
+    color: seagreen;
+}
+
+h1, h2, h3{
+    font-family: Georgia, serif;
+    font-weight: bold;
+    color: royalblue;
+}
+
+strong {
+    font-family: 'Courier New', monospace;
+    font-weight: bold;
+    color:black;
+}
+
+body{
+    background-color: goldenrod;
+}

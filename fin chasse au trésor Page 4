@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style-parcours.css">
+    <title>Accueil</title>
+</head>
+<body>
+    <h1>Les cités d'or</h1>
+    <h1>Félicitations !!!</h1>
+    <p>Vous avez retrouvé tous les fragments de la carte après avoir trouver le dernier fragment dans la pyramide. </p>
+    <p>Vous pouvez vous rendre à présent à la cité d'or et découvrir son fabuleux trésor.</p>
+    <p>A bientôt pour de nouvelles aventures !!!</p>
+    <center><img src="images/cartequatre.png" alt="" width="50%"></center>
+</body>
+</html>
